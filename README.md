@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
-<h3 align="center"> | Aspiring Full-Stack Developer | Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM | Public Speaker | Writer | Roots in Biology 💚 | </h3>
+<h3 align="center"> | 💻 Aspiring Full-Stack Developer | 🎨 Exploring UI/UX Design • 🌐 Frontend & Backend Dev • 🛡️ Cybersecurity • 📊 Project Management | 🎤 Public Speaker | ✍️ Writer | 🧬 Roots in Biology 💚 |
+ </h3>
 
 ---
 
 ### 🌿 About Me
 
+- 🎓 Currently pursuing B.Tech in Computer Science Engineering (CSE)
 - 🧬 Former NEET aspirant turned B.Tech CSE student at **SRM Institute of Science and Technology, Ramapuram**
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering
 - ✨ Passionate about **Full-Stack Development** and **UI/UX Design**
 - 🎯 Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM
 - 📚 Building **mini-projects** and documenting all with GitHub
@@ -17,8 +18,8 @@
 
 | Project                      | Description                                                |
 |-----------------------------|------------------------------------------------------------|
-| 🧬 RNA to Protein Translator | A bio-informatics themed translator with codon table & UI |
-| 💊 Medicine Inventory System | Console-based project to manage medicines (C++)           |
+| 🧬 RNA to Protein Translator | A bio-informatics themed translator with codon table & UI (C++, HTML, CSS) |
+| 💊 Medicine Inventory System | Console-based project to manage medicines (C++, HTML, CSS)           |
 
 Will be adding more projects soon!
 
