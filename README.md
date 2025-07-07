@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Pooja Verma</h1>
+<h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
 <h3 align="center"> | Aspiring Full-Stack Developer | Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM | Public Speaker | Writer | Roots in Biology 💚 | </h3>
 
 ---
@@ -10,13 +10,6 @@
 - ✨ Passionate about **Full-Stack Development** and **UI/UX Design**
 - 🎯 Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM
 - 📚 Building **mini-projects** and documenting all with GitHub
-
-### 🛠️ Tech Stack (Exploring):
-
-- **Languages:** C++, Python (Basics), HTML, CSS, JavaScript  
-- **Tools:** VS Code, GitHub, Canva, Bootstrap  
-- **Learning:** ReactJS, Node.js, SQL  
-- **Designing:** UI/UX Principles, Figma (basic)
 
 ---
 
@@ -30,6 +23,12 @@
 Will be adding more projects soon!
 
 ---
+### 🛠️ Tech Stack (Exploring):
+
+- **Languages:** C++, Python (Basics), HTML, CSS, JavaScript  
+- **Tools:** VS Code, GitHub, Canva, Bootstrap  
+- **Learning:** ReactJS, Node.js, SQL  
+- **Designing:** UI/UX Principles, Figma (basic)
 
 ### 🤝 Let's Connect
 
