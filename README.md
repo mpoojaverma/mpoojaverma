@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
-<h3 align="center"> | 💻 Aspiring Full-Stack Developer | 🎨 Exploring UI/UX Design • 🌐 Frontend & Backend Dev • 🛡️ Cybersecurity • 📊 Project Management | 🎤 Public Speaker | ✍️ Writer | 🧬 Roots in Biology 💚 |
+<h3 align="center"> 🌐 | Aspiring Full-Stack Developer | Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • Project Management | Public Speaker | Writer | Roots in Biology 💚 | 🌐
  </h3>
 
 ---
