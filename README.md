@@ -20,6 +20,8 @@
 |-----------------------------|------------------------------------------------------------|
 | 🧬 RNA to Protein Translator | A bio-informatics themed translator with codon table & UI (C++, HTML, CSS) |
 | 💊 Medicine Inventory System | Console-based project to manage medicines (C++, HTML, CSS)           |
+| 🌌 StellarFeed               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (React, APIs, Google Gemini) |
+
 
 Will be adding more projects soon!
 
