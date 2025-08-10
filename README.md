@@ -28,31 +28,26 @@
 ---
 ### 🛠️ Tech Stack (Exploring):
 
-- **Programming Languages:** C++, Python (Basics), HTML, CSS, JavaScript  
-- **Tools:** VS Code, GitHub, Canva, Bootstrap  
-- **Learning:** ReactJS, Node.js, SQL  
-- **Designing:** UI/UX Principles, Figma (basic)
 - **💻 Programming Languages**:
- - • C, C++, Python
- - • HTML5, CSS3, JavaScript (ES6+)
+ - C, C++, Python
+ - HTML5, CSS3, JavaScript (ES6+)
   
 - **🔬 Frameworks and Libraries**:
-- • Bootstrap (CSS framework)
-- • ReactJS (Learning)
-- • Node.js (Learning)
+- Bootstrap (CSS framework)
+- ReactJS (Learning)
+- Node.js (Learning)
 
 - **📁 Databases**:
-- • SQL (Learning)
+- SQL (Learning)
 
  - **🧪 Tools and Platforms**:
-- • VS Code, GitHub
-- • Figma (Basic UI/UX Design)
-- • Canva (Graphic Design)
-- • WordPress, Mailchimp
+- VS Code, GitHub
+- Figma (Basic UI/UX Design)
+- Canva (Graphic Design)
+- WordPress, Mailchimp
 
  - **💡 Design and UI/UX**:
- - • UI/UX Principles
-
+ - UI/UX Principles
 
 
 ### 🤝 Let's Connect
