@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
-<h3 align="center"> 🌐 | Aspiring Full-Stack Developer | Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • Project Management | Public Speaker | Writer | Roots in Biology | 🌐
+<h3 align="center"> 🌐 | Aspiring Full-Stack Developer | Exploring Frontend and Backend Dev • UI/UX Design • Cybersecurity • Project Management | Public Speaker | Writer | Roots in Biology | 🌐
  </h3>
 
 ---
@@ -9,7 +9,7 @@
 - 🎓 Currently pursuing B.Tech in Computer Science Engineering (CSE)
 - 🧬 Former NEET aspirant turned B.Tech CSE student at **SRM Institute of Science and Technology, Ramapuram**
 - ✨ Passionate about **Full-Stack Development** and **UI/UX Design**
-- 🎯 Exploring and currently focussing • UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM
+- 🎯 Exploring and currently focussing • Frontend and Backend Dev • UI/UX Design • Cybersecurity • PM
 - 📚 Learning and building personal, academic, and projects to to connect knowledge with practical application.
 
 ---
@@ -30,12 +30,13 @@
 
 **💻 Programming Languages**:
  - C, C++, Python
- - HTML5, CSS3, JavaScript (ES6+)
+ - HTML, CSS3, JavaScript
 
 **🔬 Frameworks and Libraries**:
 - Bootstrap (CSS framework)
 - ReactJS (Learning)
 - Node.js (Learning)
+- Metasploit Framework (Cybersecurity)
 
 **📁 Databases**:
 - SQL (Learning)
@@ -45,9 +46,19 @@
 - Figma (Basic UI/UX Design)
 - Canva (Graphic Design)
 - WordPress, Mailchimp
+- Kali Linux (OS), Metasploitable (Cybersecurity)
+- Wireshark (Cybersecurity)
+- Nmap, Sunset, Maltego (Cybersecurity)
 
 **💡 Design and UI/UX**:
  - UI/UX Principles
+
+**🛡️ Cybersecurity Domains**:
+ - Network Security
+ - Ethical Hacking (Basics)
+ - Risk Analysis
+ - Penetration Testing
+ - Advanced Steganography and Cryptography
 
 
 ### 🤝 Let's Connect
