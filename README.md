@@ -33,9 +33,7 @@
  - HTML, CSS3, JavaScript
 
 **🔬 Frameworks and Libraries**:
-- Bootstrap (CSS framework)
-- ReactJS (Learning)
-- Node.js (Learning)
+- ReactJS, Node.js (Learning)
 - Metasploit Framework (Cybersecurity)
 
 **📁 Databases**:
@@ -43,8 +41,7 @@
 
 **🧪 Tools and Platforms**:
 - VS Code, GitHub
-- Figma (Basic UI/UX Design)
-- Canva (Graphic Design)
+- Figma (Basic UI/UX Design), Canva (Graphic Design)
 - WordPress, Mailchimp
 
 **💡 Design and UI/UX**:
@@ -53,14 +50,12 @@
 **🕵️‍♀️ Cybersecurity Domains**:
  - Network Security
  - Ethical Hacking (Basics)
- - Risk Analysis
- - Penetration Testing
+ - Risk Analysis and Penetration Testing
  - Advanced Steganography and Cryptography
 
 **🛡️ Cybersecurity tools**:
 - Kali Linux (OS), Metasploitable
 - Wireshark, Nmap, Sunset, Maltego (Cybersecurity)
-
 
 ### 🤝 Let's Connect
 
