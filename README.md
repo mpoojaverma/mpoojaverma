@@ -28,25 +28,25 @@
 ---
 ### 🛠️ Tech Stack (Exploring):
 
-- **💻 Programming Languages**:
+**💻 Programming Languages**:
  - C, C++, Python
  - HTML5, CSS3, JavaScript (ES6+)
-  
-- **🔬 Frameworks and Libraries**:
+
+**🔬 Frameworks and Libraries**:
 - Bootstrap (CSS framework)
 - ReactJS (Learning)
 - Node.js (Learning)
 
-- **📁 Databases**:
+**📁 Databases**:
 - SQL (Learning)
 
- - **🧪 Tools and Platforms**:
+**🧪 Tools and Platforms**:
 - VS Code, GitHub
 - Figma (Basic UI/UX Design)
 - Canva (Graphic Design)
 - WordPress, Mailchimp
 
- - **💡 Design and UI/UX**:
+**💡 Design and UI/UX**:
  - UI/UX Principles
 
 
