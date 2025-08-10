@@ -46,9 +46,9 @@
 - Figma (Basic UI/UX Design)
 - Canva (Graphic Design)
 - WordPress, Mailchimp
-- Kali Linux (OS), Metasploitable (Cybersecurity)
-- Wireshark (Cybersecurity)
-- Nmap, Sunset, Maltego (Cybersecurity)
+- Cybersecurity:
+- Kali Linux (OS), Metasploitable
+- Wireshark, Nmap, Sunset, Maltego (Cybersecurity)
 
 **💡 Design and UI/UX**:
  - UI/UX Principles
@@ -59,7 +59,6 @@
  - Risk Analysis
  - Penetration Testing
  - Advanced Steganography and Cryptography
-
 
 ### 🤝 Let's Connect
 
