@@ -46,19 +46,21 @@
 - Figma (Basic UI/UX Design)
 - Canva (Graphic Design)
 - WordPress, Mailchimp
-- Cybersecurity:
-- Kali Linux (OS), Metasploitable
-- Wireshark, Nmap, Sunset, Maltego (Cybersecurity)
 
 **💡 Design and UI/UX**:
  - UI/UX Principles
 
-**🛡️ Cybersecurity Domains**:
+**🕵️‍♀️ Cybersecurity Domains**:
  - Network Security
  - Ethical Hacking (Basics)
  - Risk Analysis
  - Penetration Testing
  - Advanced Steganography and Cryptography
+
+**🛡️ Cybersecurity tools**:
+- Kali Linux (OS), Metasploitable
+- Wireshark, Nmap, Sunset, Maltego (Cybersecurity)
+
 
 ### 🤝 Let's Connect
 
