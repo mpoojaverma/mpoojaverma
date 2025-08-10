@@ -9,8 +9,8 @@
 - 🎓 Currently pursuing B.Tech in Computer Science Engineering (CSE)
 - 🧬 Former NEET aspirant turned B.Tech CSE student at **SRM Institute of Science and Technology, Ramapuram**
 - ✨ Passionate about **Full-Stack Development** and **UI/UX Design**
-- 🎯 Exploring UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM
-- 📚 Building **mini-projects** and documenting all with GitHub
+- 🎯 Exploring and currently focussing • UI/UX Design • Frontend & Backend Dev • Cybersecurity • PM
+- 📚 Learning and building personal, academic, and projects to to connect knowledge with practical application.
 
 ---
 
@@ -23,15 +23,37 @@
 | 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed)               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (React, APIs, Google Gemini) |
 
 
-Will be adding more projects soon!
+📌 Will be adding more projects soon!
 
 ---
 ### 🛠️ Tech Stack (Exploring):
 
-- **Languages:** C++, Python (Basics), HTML, CSS, JavaScript  
+- **Programming Languages:** C++, Python (Basics), HTML, CSS, JavaScript  
 - **Tools:** VS Code, GitHub, Canva, Bootstrap  
 - **Learning:** ReactJS, Node.js, SQL  
 - **Designing:** UI/UX Principles, Figma (basic)
+- **💻 Programming Languages**:
+    • C, C++, Python
+    • HTML5, CSS3, JavaScript (ES6+)
+  
+- **🔬 Frameworks and Libraries**:
+    • Bootstrap (CSS framework)
+    • ReactJS (Learning)
+    • Node.js (Learning)
+
+- **Databases**:
+    • SQL (Learning)
+
+ - **🧪 Tools and Platforms**:
+    • VS Code, GitHub
+    • Figma (Basic UI/UX Design)
+    • Canva (Graphic Design)
+    • WordPress, Mailchimp
+
+ - **💡 Design and UI/UX**:
+   • UI/UX Principles
+
+
 
 ### 🤝 Let's Connect
 
