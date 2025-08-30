@@ -20,7 +20,7 @@
 |-----------------------------|------------------------------------------------------------|
 | 💊 [Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Console-based project to manage medicines (C++, HTML, CSS)           |
 | 🧬 [Genetic Code Translator](https://github.com/mpoojaverma/Genetic-Code-Translator) | A bio-informatics themed translator with codon table & UI (C++, HTML, CSS) |
-| 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed)               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (React, APIs, Google Gemini) |
+| 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed)               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (Flask, APIs, etc.) |
 
 
 📌 Will be adding more projects soon!
