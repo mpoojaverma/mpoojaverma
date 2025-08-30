@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
-<h3 align="center"> 🌐 | Aspiring Full-Stack Developer | Exploring Frontend and Backend Dev • UI/UX Design • Cybersecurity • Project Management | Public Speaker | Writer | Roots in Biology | 🌐
+<h3 align="center"> 🌐 | Aspiring Full-Stack Developer | Exploring UI/UX Design • Frontend and Backend Dev • Cybersecurity • Project Management | Public Speaker | Writer | Roots in Biology | 🌐
  </h3>
 
 ---
@@ -30,14 +30,14 @@
 
 **💻 Programming Languages**:
  - C, C++, Python
- - HTML, CSS3, JavaScript
+ - HTML, CSS, JavaScript
 
 **🔬 Frameworks and Libraries**:
-- ReactJS, Node.js (Learning)
+- React.js, Node.js (Learning)
 - Metasploit Framework (Cybersecurity)
 
 **📁 Databases**:
-- SQL (Learning)
+- mySQL (Learning)
 
 **🧪 Tools and Platforms**:
 - VS Code, GitHub
