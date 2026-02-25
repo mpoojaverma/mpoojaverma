@@ -18,9 +18,12 @@
 
 | Project                      | Description                                                |
 |-----------------------------|------------------------------------------------------------|
-| 💊 [Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Console-based project to manage medicines (C++, HTML, CSS)           |
+| 💊 [Primitive Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Console-based project to manage medicines (C++, HTML, CSS)           |
 | 🧬 [Genetic Code Translator](https://github.com/mpoojaverma/Genetic-Code-Translator) | A bio-informatics themed translator with codon table & UI (C++, HTML, CSS) |
 | 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed)               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (Flask, APIs, etc.) |
+| 🐝 [Producer–Consumer (Bounded Buffer)](https://github.com/mpoojaverma/producer-consumer-python)               | Interactive visualization of the Producer–Consumer (Bounded Buffer) synchronization problem using Python and Tkinter |
+| 🗼 [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation)               | Interactive understanding of recursion, divide-and-conquer strategies, and exponential-time algorithm behavior |
+
 
 
 📌 Will be adding more projects soon!
