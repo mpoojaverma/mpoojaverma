@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
-<h3 align="center"> 🌐 | Aspiring Full-Stack Developer | Exploring UI/UX Design • Frontend and Backend Dev • Cybersecurity • Project Management | Public Speaker | Writer | Roots in Biology | 🌐
+<h3 align="center"> 🌐 | Aspiring Developer | Full-Stack Development • Cybersecurity | Research-Focused in AI/ML & Secure Systems | Public Speaker | Writer | Roots in Biology | 🌐
  </h3>
 
 ---
@@ -8,8 +8,7 @@
 
 - 🎓 Currently pursuing B.Tech in Computer Science Engineering (CSE)
 - 🧬 Former NEET aspirant turned B.Tech CSE student at **SRM Institute of Science and Technology, Ramapuram**
-- ✨ Passionate about **Full-Stack Development** and **UI/UX Design**
-- 🎯 Exploring and currently focussing • Frontend and Backend Dev • UI/UX Design • Cybersecurity • PM
+- ✨ Passionate about **Full-Stack Development**, **UI/UX Design**, **Cybersecurity** and research focused in AI/ML & Secure Systems
 - 📚 Learning and building personal, academic, and projects to to connect knowledge with practical application.
 
 ---
