@@ -22,6 +22,8 @@
 | 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed)               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (Flask, APIs, etc.) |
 | 🐝 [Producer–Consumer (Bounded Buffer)](https://github.com/mpoojaverma/producer-consumer-python)               | Interactive visualization of the Producer–Consumer (Bounded Buffer) synchronization problem using Python and Tkinter |
 | 🗼 [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation)               | Interactive understanding of recursion, divide-and-conquer strategies, and exponential-time algorithm behavior |
+| 🩺 [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION)               | An AI-powered healthcare assistant that analyzes **user symptoms + medical reports** to predict possible diseases and provide clinical insights using Machine Learning |
+
 
 
 
