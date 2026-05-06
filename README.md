@@ -1,68 +1,124 @@
-<h1 align="center">Hi 👋, I'm M. Pooja Verma!</h1>
-<h3 align="center"> 🌐 | Aspiring Developer | Full-Stack Development • Cybersecurity | Research-Focused in AI/ML & Secure Systems | Public Speaker | Writer | Roots in Biology | 🌐
- </h3>
+<h1 align="center">Hi 👋, I'm M. Pooja Verma</h1>
+
+<h3 align="center">
+Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full-Stack+Development;AI%2FML+Research;Cybersecurity+and+Secure+Systems" />
+</p>
 
 ---
 
-### 🌿 About Me
+## 🌿 About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering (CSE)
-- 🧬 Former NEET aspirant turned B.Tech CSE student at **SRM Institute of Science and Technology, Ramapuram**
-- ✨ Passionate about **Full-Stack Development**, **UI/UX Design**, **Cybersecurity** and research focused in AI/ML & Secure Systems
-- 📚 Learning and building personal, academic, and projects to to connect knowledge with practical application.
+- 🎓 B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology, Ramapuram**
+- 🧬 Former NEET aspirant with interdisciplinary interest in biology and computing
+- 🛡️ Interested in AI/ML-driven research, cybersecurity, and secure systems
+- 💻 Exploring full-stack development, UI/UX design, and intelligent software systems
+- 🎤 Public speaker, poem writer, and research-oriented learner
+
+---
+
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| 💊 [Primitive Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Primitive console-based medicine inventory management system using C++, HTML, and CSS |
+| 🧬 [Genetic Code Translator](https://github.com/mpoojaverma/Genetic-Code-Translator) | Primitive bioinformatics-themed translator with codon mapping and interactive UI |
+| 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed) | Dynamic web application integrating NASA APOD, real-time space news, and space-themed poetry |
+| 🐝 [Producer–Consumer Visualization](https://github.com/mpoojaverma/producer-consumer-python) | Interactive bounded-buffer synchronization visualization using Python and Tkinter |
+| 🗼 [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation) | Interactive recursion and divide-and-conquer algorithm visualization |
+| 🩺 [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION) | AI-powered healthcare assistant for symptom analysis and disease prediction using Machine Learning |
 
 ---
 
-### 📂 Featured Projects
+## 🔬 Research and Publications
 
-| Project                      | Description                                                |
-|-----------------------------|------------------------------------------------------------|
-| 💊 [Primitive Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Console-based project to manage medicines (C++, HTML, CSS)           |
-| 🧬 [Genetic Code Translator](https://github.com/mpoojaverma/Genetic-Code-Translator) | A bio-informatics themed translator with codon table & UI (C++, HTML, CSS) |
-| 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed)               | Dynamic web app delivering daily cosmic content with NASA APOD, real-time space news, and space-themed poetry (Flask, APIs, etc.) |
-| 🐝 [Producer–Consumer (Bounded Buffer)](https://github.com/mpoojaverma/producer-consumer-python)               | Interactive visualization of the Producer–Consumer (Bounded Buffer) synchronization problem using Python and Tkinter |
-| 🗼 [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation)               | Interactive understanding of recursion, divide-and-conquer strategies, and exponential-time algorithm behavior |
-| 🩺 [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION)               | An AI-powered healthcare assistant that analyzes user symptoms and medical reports to predict possible diseases and provide clinical insights using Machine Learning |
-
-
-
-
-📌 Will be adding more projects soon!
+| Research Work | Description |
+|---------|---------|
+| 🛡️ [SteganoML](https://github.com/mpoojaverma/SteganoML) | *Adaptive ML-Driven Audio Steganography for Robust Secure Communication*<br>Published in **IEEE WiSPNET 2026**<br>DOI: https://doi.org/10.1109/WiSPNET69615.2026.11489464 |
 
 ---
-### 🛠️ Tech Stack (Exploring):
 
-**💻 Programming Languages**:
- - C, C++, Python
- - HTML, CSS, JavaScript
 
-**🔬 Frameworks and Libraries**:
-- React.js, Node.js (Learning)
-- Metasploit Framework (Cybersecurity)
+## 🛠️ Tech Stack
 
-**📁 Databases**:
-- mySQL (Learning)
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
 
-**🧪 Tools and Platforms**:
-- VS Code, GitHub
-- Figma (Basic UI/UX Design), Canva (Graphic Design)
-- WordPress, Mailchimp
+### 🔬 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+</p>
 
-**💡 Design and UI/UX**:
- - UI/UX Principles
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,figma" />
+</p>
 
-**🕵️‍♀️ Cybersecurity Domains**:
- - Network Security
- - Ethical Hacking (Basics)
- - Risk Analysis and Penetration Testing
- - Advanced Steganography and Cryptography
+### 🛡️ Cybersecurity & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
 
-**🛡️ Cybersecurity tools**:
-- Kali Linux (OS), Metasploitable
-- Wireshark, Nmap, Sunset, Maltego (Cybersecurity)
+### 🧪 Additional Areas
 
-### 🤝 Let's Connect
+- Ethical Hacking & Penetration Testing
+- Network Security
+- Steganography & Cryptography
+- WordPress & Mailchimp
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pooja-verma-m-a5bb12330/
-- 📬 Email: mpoojaverma12@gmail.com  
-- 🌐 Portfolio (Coming soon!)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mpoojaverma&theme=merko&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpoojaverma&theme=github_dark" width="64%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpoojaverma&theme=github_dark" width="35%"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MPOOJAVERMA?theme=forest&font=Space%20Grotesk" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pooja-verma-m-a5bb12330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853"/>
+  </a>
+  <a href="mailto:mpoojaverma12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C853"/>
+  </a>
+  <a href="https://leetcode.com/u/MPOOJAVERMA/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00C853"/>
+  </a>
+  <a href="https://github.com/mpoojaverma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C853"/>
+  </a>
+</p>
+
+
+<p align="center">
+  🌿 <i>Building secure, intelligent, and research-driven systems through technology</i> 🌿
+</p>
+
+<p align="center">
+  Portfolio Web — <b>Coming Soon</b>
+</p>
+
+---
