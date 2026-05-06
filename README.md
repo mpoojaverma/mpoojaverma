@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm M. Pooja Verma</h1>
 
-<h3 align="center">
+<h2 align="center">
 Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full-Stack+Development;AI%2FML+Research;Cybersecurity+and+Secure+Systems" />
