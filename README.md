@@ -43,21 +43,17 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bootstrap" />
 </p>
 
 ### 🔬 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,qt,supabase" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PyQt-0D1117?style=for-the-badge&logo=qt&logoColor=00C853"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,qt" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,github,vscode,figma" />
 </p>
 
 ### 🛡️ Cybersecurity & Platforms
@@ -68,7 +64,6 @@
 ### 🧪 Additional Areas
 
 - Ethical Hacking & Penetration Testing
-- Network Security
 - Steganography & Cryptography
 - WordPress & Mailchimp
 
