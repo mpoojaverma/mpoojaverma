@@ -47,17 +47,17 @@ Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bootstrap" />
 </p>
 
 ### 🔬 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,qt" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,github,vscode,figma" />
 </p>
 
 ### 🛡️ Cybersecurity & Platforms
@@ -68,7 +68,6 @@ Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
 ### 🧪 Additional Areas
 
 - Ethical Hacking & Penetration Testing
-- Network Security
 - Steganography & Cryptography
 - WordPress & Mailchimp
 
