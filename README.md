@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm M. Pooja Verma</h1>
-
-<h2 align="center">
-Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full-Stack+Development;AI%2FML+Research;Cybersecurity+and+Secure+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C853&height=220&section=header&text=Hi,%20I'm%20M.%20Pooja%20Verma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Development%20•%20AI/ML%20Research%20•%20Cybersecurity%20•%20Secure%20Systems&descAlignY=60&descSize=18"/>
 </p>
 
----
+<p align="center" style="margin-top:-30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=35&lines=What+you+seek+is+seeking+you." />
+</p>
 
 ## 🌿 About Me
 
@@ -47,17 +43,21 @@ Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,bootstrap,html,css" />
 </p>
 
 ### 🔬 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,qt" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,qt,supabase" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyQt-0D1117?style=for-the-badge&logo=qt&logoColor=00C853"/>
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,figma" />
 </p>
 
 ### 🛡️ Cybersecurity & Platforms
@@ -68,6 +68,7 @@ Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
 ### 🧪 Additional Areas
 
 - Ethical Hacking & Penetration Testing
+- Network Security
 - Steganography & Cryptography
 - WordPress & Mailchimp
 
@@ -121,3 +122,4 @@ Full-Stack Development • AI/ML Research • Cybersecurity • Secure Systems
 </p>
 
 ---
+
