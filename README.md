@@ -54,7 +54,7 @@
 ### 🗄️ Databases & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,supabase,github,vscode" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="42" style="transform:scale(0.99);"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="42""/>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
