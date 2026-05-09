@@ -34,7 +34,7 @@
 
 | Research Work | Description |
 |---------|---------|
-| 🛡️ [SteganoML](https://github.com/mpoojaverma/SteganoML) | *SteganoML: An Adaptive ML-Driven Audio Steganography for Robust Secure Communication*<br>Published in **IEEE WiSPNET (International Conference on Wireless Communications, Signal Processing and Networking) 2026**<br>DOI: https://doi.org/10.1109/WiSPNET69615.2026.11489464 |
+| [SteganoML](https://github.com/mpoojaverma/SteganoML) | *SteganoML: An Adaptive ML-Driven Audio Steganography for Robust Secure Communication*<br>Published in **IEEE WiSPNET (International Conference on Wireless Communications, Signal Processing and Networking) 2026**<br>DOI: https://doi.org/10.1109/WiSPNET69615.2026.11489464 |
 
 ---
 
