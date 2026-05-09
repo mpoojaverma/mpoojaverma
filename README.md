@@ -39,31 +39,31 @@
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bootstrap" />
 </p>
 
-### 🔬 Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,qt" />
 </p>
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,supabase,github,vscode" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="42" style="transform:scale(0.88);"/>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🛡️ Cybersecurity & Platforms
+### Cybersecurity & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
-### 🧪 Additional Areas
+### Additional Areas
 
 - Ethical Hacking & Penetration Testing
 - Steganography & Cryptography
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mpoojaverma&theme=merko&hide_border=true" height="180"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/MPOOJAVERMA?theme=forest&font=Space%20Grotesk" />
