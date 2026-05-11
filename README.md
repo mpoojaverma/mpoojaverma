@@ -65,9 +65,9 @@
 
 ### Additional Areas
 
-- Ethical Hacking & Penetration Testing
-- Steganography & Cryptography
-- WordPress & Mailchimp
+- Ethical Hacking and Penetration Testing
+- Steganography and Cryptography
+- WordPress and Mailchimp
 
 ---
 
