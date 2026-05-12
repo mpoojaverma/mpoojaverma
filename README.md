@@ -77,9 +77,17 @@
   <img src="https://streak-stats.demolab.com?user=mpoojaverma&theme=merko&hide_border=true" height="180"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpoojaverma&theme=github_dark" width="64%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpoojaverma&theme=github_dark" width="35%"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpoojaverma&theme=github_dark" 
+    width="64%" 
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpoojaverma&theme=github_dark" 
+    width="35%" 
+  />
 </p>
 
 ---
