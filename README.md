@@ -9,24 +9,24 @@
 ## 🌿 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology, Ramapuram**
-- 🧬 Former NEET aspirant with interdisciplinary interest in biology and computing
-- 🛡️ Interested in AI/ML-driven research, cybersecurity, and secure systems
 - 💻 Exploring full-stack development, UI/UX design, and intelligent software systems
+- 🛡️ Interested in AI/ML-driven research, cybersecurity, and secure systems
+- 🧬 Former NEET aspirant with interdisciplinary interest in biology and computing
 - 🎤 Public speaker, poem writer, and research-oriented learner
 
 ---
 
 
-## 📂 Featured Projects
+## 📂 Projects
 
 | Project | Description |
 |---|---|
-| 💊 [Primitive Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Primitive console-based medicine inventory management system using C++, HTML, and CSS |
-| 🧬 [Genetic Code Translator](https://github.com/mpoojaverma/Genetic-Code-Translator) | Primitive bioinformatics-themed translator with codon mapping and interactive UI |
-| 🌌 [StellarFeed](https://github.com/mpoojaverma/StellarFeed) | Dynamic web application integrating NASA APOD, real-time space news, and space-themed poetry |
-| 🐝 [Producer–Consumer Visualization](https://github.com/mpoojaverma/producer-consumer-python) | Interactive bounded-buffer synchronization visualization using Python and Tkinter |
-| 🗼 [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation) | Interactive recursion and divide-and-conquer algorithm visualization |
-| 🩺 [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION) | AI-powered healthcare assistant for symptom analysis and disease prediction using Machine Learning |
+| [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION) | AI-powered healthcare assistant for symptom analysis and disease prediction using Machine Learning 🩺|
+| [StellarFeed](https://github.com/mpoojaverma/StellarFeed) | Dynamic web application integrating NASA APOD, real-time space news, and space-themed poetry 🌌|
+| [Producer–Consumer Visualization](https://github.com/mpoojaverma/producer-consumer-python) | Interactive bounded-buffer synchronization visualization using Python and Tkinter 🐝 |
+| [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation) | Interactive recursion and divide-and-conquer algorithm visualization🗼|
+| [Genetic Code Translator](https://github.com/mpoojaverma/Genetic-Code-Translator) | Bioinformatics-themed primitve translator with codon mapping and interactive UI 🧬|
+| [Primitive Medicine Inventory System](https://github.com/mpoojaverma/Medicine-Management-System) | Primitive console-based medicine inventory management system using C++, HTML, and CSS 💊|
 
 ---
 
@@ -79,7 +79,17 @@
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpoojaverma&theme=github_dark" width="64%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpoojaverma&theme=github_dark" width="35%"/>
+<table>
+<tr>
+<td width="65%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpoojaverma&theme=merko"/>
+</td>
+
+<td width="35%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpoojaverma&theme=merko"/>
+</td>
+</tr>
+</table>
 </p>
 
 ---
