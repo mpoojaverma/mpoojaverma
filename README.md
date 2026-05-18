@@ -87,7 +87,7 @@
 ## LeetCode Stats
 
 <p align="center">
-  <img src="[https://leetcard.jacoblin.cool/MPOOJAVERMA?theme=forest&font=Space%20Grotesk](https://leetcard.jacoblin.cool/MPOOJAVERMA?theme=forest&font=Space%20Grotesk)" />
+  <img src="https://leetcard.jacoblin.cool/MPOOJAVERMA?theme=forest&font=Space%20Grotesk" />
 </p>
 
 ---
