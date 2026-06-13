@@ -21,6 +21,8 @@
 
 | Project | Description |
 |---|---|
+| [SteganoML Platform](https://github.com/mpoojaverma/SteganoML-Platform) | Adaptive ML-Driven Audio Steganography Platform featuring ML-guided payload embedding, AES-256 encryption, secure file sharing, real-time analytics, and a full-stack research-grade architecture for covert communication (Research-backed). |
+| [SteganoML - Research and Publication](https://github.com/mpoojaverma/SteganoML) | Adaptive ML-driven audio steganography for robust secure communication (Research and Publication Overview). |
 | [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION) | AI-powered healthcare assistant for symptom analysis and disease prediction using Machine Learning 🩺|
 | [StellarFeed](https://github.com/mpoojaverma/StellarFeed) | Dynamic web application integrating NASA APOD, real-time space news, and space-themed poetry 🌌|
 | [Producer–Consumer Visualization](https://github.com/mpoojaverma/producer-consumer-python) | Interactive bounded-buffer synchronization visualization using Python and Tkinter 🐝 |
