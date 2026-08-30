@@ -23,6 +23,7 @@
 |---|---|
 | [SteganoML Platform](https://github.com/mpoojaverma/SteganoML-Platform) | Adaptive ML-Driven Audio Steganography Platform featuring ML-guided payload embedding, AES-256 encryption, secure file sharing, real-time analytics, and a full-stack research-grade architecture for covert communication (Research-backed). |
 | [SteganoML - Research and Publication](https://github.com/mpoojaverma/SteganoML) | Adaptive ML-driven audio steganography for robust secure communication (Research and Publication Overview). |
+| [OreCast-Mn](https://github.com/mpoojaverma/moil-mine-intelligence) | AI/ML-based manganese mining intelligence platform integrating reserve assessment, production forecasting, risk analysis, and operational decision support. **Contributed to frontend architecture, interactive dashboard development, data visualizations, and deployment.** |
 | [Symptomate HealthAI](https://github.com/mpoojaverma/AI-FOR-HEALTH-RISK-PREDICTION) | AI-powered healthcare assistant for symptom analysis and disease prediction using Machine Learning 🩺|
 | [StellarFeed](https://github.com/mpoojaverma/StellarFeed) | Dynamic web application integrating NASA APOD, real-time space news, and space-themed poetry 🌌|
 | [Tower of Hanoi Simulatory Solver](https://github.com/mpoojaverma/tower_of_hanoi_simulation) | Interactive recursion and divide-and-conquer algorithm visualization🗼|
