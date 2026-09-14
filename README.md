@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=35&lines=What+you+seek+is+seeking+you." />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mpoojaverma&label=Profile%20Views&color=00C853&labelColor=203A43&style=flat" />
+</p>
+
 ## 🌿 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology, Ramapuram**
