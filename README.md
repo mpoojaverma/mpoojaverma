@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=35&lines=What+you+seek+is+seeking+you." />
 </p>
 
+<p align="center">
+  <a href="https://pooja-portfolio-indol.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%20VISIT%20MY%20PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=203A43" height="48"/>
+  </a>
+</p>
+
 ## 🌿 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology, Ramapuram**
@@ -15,13 +21,6 @@
 - 🎤 Public speaker, poem writer, and research-oriented learner
 
 ---
-
-<p align="center">
-  <a href="https://pooja-portfolio-indol.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%20VISIT%20MY%20PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=203A43" height="48"/>
-  </a>
-</p>
-
 
 ## 📂 Projects
 
