@@ -9,12 +9,18 @@
 ## 🌿 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology, Ramapuram**
-- 💻 Exploring full-stack development, machine learning, cybersecurity, UI/UX design, and intelligent software systems
-- 🛡️ Interested in AI/ML-driven research, cybersecurity, and secure systems
+- 💻 Exploring full-stack development, machine learning, cybersecurity, and intelligent software systems
+- 🛡️ Interested in AI/ML-driven research and secure systems
 - 🧬 Former NEET aspirant with interdisciplinary interest in biology and computing
 - 🎤 Public speaker, poem writer, and research-oriented learner
 
 ---
+
+<p align="center">
+  <a href="https://pooja-portfolio-indol.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✦%20VISIT%20MY%20LIVE%20PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=203A43" height="48"/>
+  </a>
+</p>
 
 
 ## 📂 Projects
